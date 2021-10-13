@@ -8,7 +8,7 @@
 - 📩 luisgabriel.dayeh@gmail.com
 
 #Programming Languages
-![alt text](https://w7.pngwing.com/pngs/535/618/png-transparent-ruby-on-rails-computer-programming-programming-language-ruby-angle-rectangle-logo.png) ![alt text](https://w7.pngwing.com/pngs/725/775/png-transparent-javascript-html-logo-blog-css3-javanese-miscellaneous-angle-text-thumbnail.png)
+Ruby // Javascript
 
 
 Frameworks
