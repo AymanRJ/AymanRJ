@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis-Gabriel Dayeh</h1>
 <h3 align="center">I'm a Teacher and Teacher Assistant at Le Wagon</h3>
-<ol align="center"> 
+<ul align="center"> 
  <li>I’m currently learning **React** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></li>
 
  <li>👨‍💻 All of my projects are available at [https://luis-gabrieldayeh.notion.site/Luis-Gabriel-Ayman-Portofolio-ce08491eaec342249186c9b8fcec42c7](https://luis-gabrieldayeh.notion.site/Luis-Gabriel-Ayman-Portofolio-ce08491eaec342249186c9b8fcec42c7)</li>
