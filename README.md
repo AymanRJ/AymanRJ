@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis-Gabriel Dayeh</h1>
-<h3 align="center">I'm a Teacher and Teacher Assistant at Le Wagon. <img src="file:///Users/luisgabrielayman/Documents/lewagon-logo-square-b6124eb974be375884558e4464efce48a9b5664f18422768156364363ecdd1fc.svg" alt="wagon" width="40" height="40"/></h3>
+<h3 align="center">I'm a Teacher and Teacher Assistant at Le Wagon</h3>
 
 - I’m currently learning **React** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
