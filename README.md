@@ -5,7 +5,7 @@
 
 <h3 align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="16" height="16"/> All of my projects are available <a href="https://luis-gabrieldayeh.notion.site/Luis-Gabriel-Ayman-Portofolio-ce08491eaec342249186c9b8fcec42c7 "> here </a>.</h3>
 
-<h3 align="center">📫 How to reach me:<strong> luisgabriel.dayeh@gmail.com </strong></h3>
+<h3 align="center"> 📫 How to reach me: <strong> luisgabriel.dayeh@gmail.com </strong></h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
