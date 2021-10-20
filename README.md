@@ -3,7 +3,7 @@
 
 <h3 align="center"> 🚀 I’m currently learning <strong>React</strong><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></h3>
 
-<h3 align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="16" height="16"/> All of my projects are available <a href="https://luis-gabrieldayeh.notion.site/Luis-Gabriel-Ayman-Portofolio-ce08491eaec342249186c9b8fcec42c7 "> here </a>.</h3>
+<h3 align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="16" height="16"/> All of my projects are available <a href="https://luis-gabrieldayeh.notion.site/Luis-Gabriel-Ayman-Portofolio-ce08491eaec342249186c9b8fcec42c7 "> here </a></h3>
 
 <h3 align="center"> 📫 How to reach me: <a href = "mailto: luisgabriel.dayeh@gmail.com"> luisgabriel.dayeh@gmail.com </h3>
 
