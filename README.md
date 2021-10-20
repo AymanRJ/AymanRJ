@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luis-Gabriel Dayeh</h1>
+<h1 align="center">Hello there 👋, I'm Luis-Gabriel Dayeh</h1>
 <h3 align="center">I'm a Teacher and Teacher Assistant at <a href="https://kitt.lewagon.com/alumni/AymanRJ"> Le Wagon </a>  <img src="https://medinsoft.com/wp-content/uploads/2020/01/lewagonlogocercle-1024x1024.png" alt="react" width="32" height="32"/> </h3> 
 
 🚀 I’m currently learning **React** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
