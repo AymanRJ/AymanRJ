@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Luis-Gabriel Dayeh</h1>
 <h3 align="center"> ➣ I'm a Teacher and Teacher Assistant at <a href="https://kitt.lewagon.com/alumni/AymanRJ"> Le Wagon </a>  <img src="https://medinsoft.com/wp-content/uploads/2020/01/lewagonlogocercle-1024x1024.png" alt="react" width="32" height="32"/> </h3> 
 
-<h3 align="center"> ➣ I’m currently learning <strong>React</strong> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </h3>
+<h3 align="center"> ➣I’m currently learning <strong>React</strong> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </h3>
 
 
 <h3 align="center"> ➣ All of my projects are available <a href="https://luis-gabrieldayeh.notion.site/Luis-Gabriel-Ayman-Portofolio-ce08491eaec342249186c9b8fcec42c7 "> here <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="24" height="24"/></a> </h3>
