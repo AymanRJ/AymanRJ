@@ -13,9 +13,9 @@
 <a href="https://www.linkedin.com/in/luis-gabrieldayeh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-gabriel ayman dayeh" height="30" width="40" /></a>
 </p>
  
-<h2 align="center"> 
+<h4 align="center"> 
 ⌄ TECH SKILLS ⌄
-</h2>
+</h4>
  
 
 <h3 align="center">Programming Languages</h3>
