@@ -20,9 +20,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
  
-<p align="center"> 
+<2 align="center"> 
 ⌄ TECH SKILLS ⌄
- </p>
+ </2>
  
 <h3 align="center">Framework</h3>
 <p align="center"> 
