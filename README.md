@@ -12,6 +12,11 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/luis-gabrieldayeh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-gabriel ayman dayeh" height="30" width="40" /></a>
 </p>
+ 
+<h2 align="center"> 
+⌄ TECH SKILLS ⌄
+</h2>
+ 
 
 <h3 align="center">Programming Languages</h3>
 
@@ -19,10 +24,6 @@
 <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
- 
-<2 align="center"> 
-⌄ TECH SKILLS ⌄
- </2>
  
 <h3 align="center">Framework</h3>
 <p align="center"> 
