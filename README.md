@@ -14,7 +14,7 @@
 </p>
  
 <h2 align="center"> 
-⌄ TECH SKILLS ⌄
+ TECH SKILLS
 </h2>
  
 
